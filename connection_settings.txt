@@ -1,0 +1,2 @@
+TYPE_STORAGE=FILE
+FILE_STORAGE_PATH_FILE=samples/StorageFile/Demo
