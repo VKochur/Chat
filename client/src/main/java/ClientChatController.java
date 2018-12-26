@@ -1,5 +1,3 @@
-package kvv.education.khasang.java1.net.chat.client;
-
 import kvv.education.khasang.java1.chat.views.gui.Event;
 import kvv.education.khasang.java1.chat.views.gui.WindowControllerChat;
 import kvv.education.khasang.java1.chat.views.gui.WindowViewChat;

@@ -8,7 +8,6 @@ import kvv.education.khasang.java1.chat.views.console.ConsoleViewChat;
 
 import java.io.IOException;
 
-
 /**
  * Консольное приложение чат
  * <p>

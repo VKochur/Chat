@@ -1,5 +1,3 @@
-package kvv.education.khasang.java1.net.chat.client;
-
 import javax.swing.*;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;

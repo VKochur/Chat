@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: kvv.education.khasang.java1.net.chat.client.MainRunClient
-

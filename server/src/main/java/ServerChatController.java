@@ -1,5 +1,3 @@
-package kvv.education.khasang.java1.net.chat.server;
-
 import kvv.education.khasang.java1.chat.model.ModelChat;
 import kvv.education.khasang.java1.chat.model.basic_entity.Dialog;
 import kvv.education.khasang.java1.chat.model.basic_entity.User;
