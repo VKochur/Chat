@@ -8,6 +8,18 @@ import java.util.*;
 /**
  * Набор информации для определения настроек подключения чата,
  * получаемый в результате анализа файла настроек
+ *
+ * Примеры файла настроек:
+ *
+ * ----1.txt----
+ *
+ * TYPE_STORAGE=FILE
+ * FILE_STORAGE_PATH_FILE=sample/fileStorage
+ *
+ *
+ * ----2.txt----
+ *
+ * TYPE_STORAGE=OMD
  */
 public class Parser {
 

@@ -10,7 +10,7 @@ import java.util.Scanner;
  * <p>
  * Если args.length < 1 используются умолчательный 8082
  * <p>
- * настройки подключения к хранилищу должны быть указаны в файле "connection_settings.txt" находящимся в папке с исполняемым файлом
+ * настройки подключения к хранилищу должны быть указаны в файле "connection_settings1.txt" находящимся в папке с исполняемым файлом
  * перечень запрещенных слов и выражений в чате в файле "taboo utf-8.txt" (кодировка д.б. utf-8) находящимся в папке с исполняемым файлом
  *
  * Изначально созданы пользователи "Николай", "Евгений" пароли пустые ""
@@ -18,7 +18,7 @@ import java.util.Scanner;
 public class MainRunServer {
 
     private static final Integer DEFAULT_PORT = 8082;
-    private static final String SETTING = "connection_settings.txt";
+    private static final String SETTING = "connection_settings1.txt";
     private static final String PATH_TABOO_WORDS = "taboo utf-8.txt";
 
     public static void main(String[] args) {
